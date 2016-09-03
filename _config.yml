@@ -16,5 +16,9 @@ author:
   email: patrick.loeffler@givve.com
   url: www.patrickloeffler.de
 name: Patrick Loeffler
+navigation:
+  - name: Oops
+    id: f4447b71-b774-47b0-be6d-9295f73db4e2
+    type: content
 title: Patrick Löffler
 description: Director at givve.com
