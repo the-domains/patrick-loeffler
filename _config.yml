@@ -11,6 +11,10 @@ color:
     - '#FFE11A'
     - '#FD7400'
 layout_spectrum: 0.22529519954696298
+author:
+  name: Patrick Löffler
+  email: patrick.loeffler@givve.com
+  url: www.patrickloeffler.de
 name: Patrick Loeffler
 title: Patrick Löffler
 description: Director at givve.com
