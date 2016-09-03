@@ -1,4 +1,3 @@
-layout_spectrum: 0.22529519954696298
 typography_spectrum: 0.004033410456031561
 color:
   brandStrength: 0.6926107094623148
@@ -11,4 +10,6 @@ color:
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
+layout_spectrum: 0.22529519954696298
 name: Patrick Loeffler
+title: Patrick Löffler
